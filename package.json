@@ -1,0 +1,15 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/app.js"},
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
